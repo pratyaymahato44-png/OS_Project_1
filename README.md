@@ -67,6 +67,7 @@ Some parts of this project were developed with the assistance of AI-generated co
 All final design decisions, integration, testing, and documentation were done manually.
 
 ## Author
+PRATYAY MAHATO(24CS8021)
 
 TALLAPUDI CHAITANYA KUMAR(24CS8022)
 
@@ -79,6 +80,7 @@ SHUBHAM MANDAL(24CS8025)
 NAKUL RAMTEKE(24CS8026)
 
 GUDI DEDEEPYA(24CS8029)
+
 
 
 
