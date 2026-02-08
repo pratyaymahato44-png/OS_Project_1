@@ -68,9 +68,11 @@ All final design decisions, integration, testing, and documentation were done ma
 
 ## Author
 
-CHAITANYA TALLAPUDI(24CS8022)
+TALLAPUDI CHAITANYA KUMAR(24CS8022)
+
 RUPDEEP RAY(24CS8023)
 
 NAKUL RAMTEKE(24CS8026)
 
 NIJAMPUDI RAM CHARAN(24CS8024)
+
