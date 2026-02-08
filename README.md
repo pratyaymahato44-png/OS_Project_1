@@ -29,7 +29,7 @@ This project computes prime numbers in a given range [start, end] using multiple
 ## Files
 
 - prime_gen.c – Parallel prime generator written in C using fork()
-- prime_generated_ai.c – AI-assisted reference implementation
+- prime_gen_ai.c – AI-assisted reference implementation
 - plot.ipynb – Python notebook for plotting n vs execution time
 - tester.py – Automates performance experiments
 - time.txt – Generated timing data (ignored by git)
@@ -60,7 +60,7 @@ python3 tester.py
 
 Some parts of this project were developed with the assistance of AI-generated code for learning and productivity purposes.
 
-- File: prime_generated_ai.c
+- File: prime_gen_ai.c
 - Usage: Used as a reference and starting point for implementing parallel prime generation using fork() and process synchronization.
 - Verification: The code was reviewed, tested, and modified  to ensure correctness, performance, and alignment with operating system concepts.
 
@@ -68,6 +68,7 @@ All final design decisions, integration, testing, and documentation were done ma
 
 ## Author
 
+CHAITANYA TALLAPUDI(24CS8022)
 RUPDEEP RAY(24CS8023)
 
 NAKUL RAMTEKE(24CS8026)
