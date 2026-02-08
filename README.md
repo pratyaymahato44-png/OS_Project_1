@@ -131,6 +131,7 @@ python3 tester.py
 
 
 RUPDEEP RAY(24CS8023)
+Nakul Ramteke(24CS8026)
 
 
 
